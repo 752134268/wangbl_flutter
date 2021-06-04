@@ -7,7 +7,9 @@
 ## Getting Started
 
 ### 2021年6月4日实现
-![image](https://github.com/752134268/wangbl_flutter/blob/master/gif/2021-06-04%2015.53.25.gif) {:width="100px" height="260px"}
+<img src="https://github.com/752134268/wangbl_flutter/blob/master/gif/2021-06-04%2015.53.25.gif" width="260" height="500" />
+
+
 
 
 
