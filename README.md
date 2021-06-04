@@ -1,16 +1,13 @@
 # wangbl_flutter
 
-A new Flutter project.
+编程没有捷径，学习一种新的编程语言或者框架，唯有自己动手才是正道，在自己动手的过程才会出现各种各样的异常,而出现的异常正是我们前进的垫脚石.
+
+本项目也是笔者在学习flutter过程中根据官网的一些指导，一行一行敲出来的。
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### 2021年6月4日实现
+![image](https://github.com/752134268/wangbl_flutter/blob/master/gif/2021-06-04%2015.53.25.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
