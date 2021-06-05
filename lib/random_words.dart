@@ -22,7 +22,6 @@ class RandomWordsState extends State<RandomWords>{
             return  new ListTile(
               title: new Text(pair.asPascalCase,style: _biggerFont,),
             );
-
           });
           final  divided = ListTile.divideTiles(tiles: title,context: context).toList();
           return new Scaffold(
