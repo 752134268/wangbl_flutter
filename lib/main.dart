@@ -1,34 +1,33 @@
 import 'package:flutter/material.dart';
+import 'package:wangbl_flutter/day5/Day5.dart';
 
 import 'package:wangbl_flutter/random_words.dart';
 
 import 'day2/Day2App.dart';
 import 'day3/Day3App.dart';
 
-
 void main() {
-  runApp(Day2App());
+  runApp(MainPage());
 }
 
-  class MyApp extends StatelessWidget {
+class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-
-    String title='Flutter 第二天';
+    String title = 'Flutter 第二天';
     return MaterialApp(
-      title: title,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: new Scaffold(
-        appBar: new AppBar(title: new Text(title)),
-        body: new Center(
-          child: new Text('Hello World',),
-      ),
-    )
-    )
-    ;
+        title: title,
+        theme: ThemeData(
+          primarySwatch: Colors.blue,
+        ),
+        home: new Scaffold(
+          appBar: new AppBar(title: new Text(title)),
+          body: new Center(
+            child: new Text(
+              'Hello World',
+            ),
+          ),
+        ));
   }
 }
 
