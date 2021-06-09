@@ -7,7 +7,7 @@ import 'day2/Day2App.dart';
 import 'day3/Day3App.dart';
 
 void main() {
-  runApp(MainPage());
+  runApp(Day5());
 }
 
 class MyApp extends StatelessWidget {
